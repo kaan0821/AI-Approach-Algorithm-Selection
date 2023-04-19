@@ -1,0 +1,11 @@
+# list all required Python packages needed for your submission
+# IMPORTANT: 
+#    - Please check the practical spec for the allowed packages
+#    - Please make sure the package versions work on the school lab machines
+
+numpy
+torch
+skorch
+scikit-learn
+matplotlib
+joblib
